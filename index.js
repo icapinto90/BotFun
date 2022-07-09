@@ -45,4 +45,4 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login('token'); //fihudssiudf
+client.login('token');
